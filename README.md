@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a fourth-year undergraduate student at UC Santa Cruz. I also work as an undergraduate student researcher at [Professor Jeffrey Flanigan’s](https://jflanigan.github.io/) JLab.
+I am a fourth-year undergraduate student at the University of California, Santa Cruz. I also work as an undergraduate student researcher at [Professor Jeffrey Flanigan](https://jflanigan.github.io/)'s JLab.
 
 My interests lie in the problem of how to learn quickly and efficiently, which can be broken into four parts:
 - [Reinforcement learning](https://arxiv.org/abs/1810.06339v1) (learning by trial and error).
