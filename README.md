@@ -9,7 +9,13 @@ Here are some ideas to get you started:
 
 I am a fourth-year undergraduate student at UC Santa Cruz. I also work as an undergraduate student researcher at [Professor Jeffrey Flanigan’s](https://jflanigan.github.io/) JLab.
 
-My interests lie in [reinforcement learning](https://arxiv.org/abs/1810.06339v1), [meta-learning (learning to learn)](https://arxiv.org/abs/2004.05439v1), [few-shot learning](https://arxiv.org/abs/1904.05046v3), and [out-of-distribution generalization](http://www.gatsby.ucl.ac.uk/~balaji/berkeley-talk-balaji.pdf). I am particularly interested in improving agents’ generalization ability when they are presented with out-of-distribution examples. To see more detail, click [here](https://chrisliu.dev/posts/2020/1018/generalization/).
+My interests lie in the problem of how to learn quickly and efficiently, which can be broken into four parts:
+- [Reinforcement learning](https://arxiv.org/abs/1810.06339v1) (learning by trial and error).
+- [Meta-learning](https://arxiv.org/abs/2004.05439v1) (learning to learn).
+- [Few-shot learning](https://arxiv.org/abs/1904.05046v3) (learning with a few samples).
+- [Out-of-distribution generalization](http://www.gatsby.ucl.ac.uk/~balaji/berkeley-talk-balaji.pdf) (learning to generalize). 
+
+I am particularly interested in improving agents’ generalization ability in the out-of-distribution regime (e.g., when tested with more complex examples). To see more detail, click [here](https://chrisliu298.io/posts/2020/1018/generalization/). My life goal is to build intelligent agents that learn to discover.
 
 
 <!-- [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisliu298)](https://github.com/anuraghazra/github-readme-stats) -->
