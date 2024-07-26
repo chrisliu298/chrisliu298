@@ -1,1 +1,1 @@
-I like to control what neural networks learn and how they behave.
+I like to control how neural networks learn and behave.
