@@ -1,1 +1,1 @@
-I love training LLMs.
+I love LLMs and coding agents.
