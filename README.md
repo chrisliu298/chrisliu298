@@ -1,1 +1,5 @@
-I love LLMs and coding agents.
+I love three things:
+
+1. MacBook Pro
+2. LLMs and coding agents
+3. Diet Coke
