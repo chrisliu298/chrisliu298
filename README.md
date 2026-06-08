@@ -1,1 +1,1 @@
-vibe phding / researching / coding / driving
+vibe phding
